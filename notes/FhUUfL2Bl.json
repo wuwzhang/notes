@@ -1,0 +1,1 @@
+{"title":"ssh","content":"- `ssh root@192.168.0.225`\n- `scp -r ~/Downloads/dist.zip root@192.168.0.225:/home/`","tags":[],"folderPathname":"/tool","data":{},"createdAt":"2020-11-27T10:48:00.538Z","updatedAt":"2020-11-27T10:48:25.637Z","trashed":false,"_id":"note:FhUUfL2Bl","_rev":"2-20852ce6b6179f049c82041654e7a6ec"}
