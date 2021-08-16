@@ -1,0 +1,1 @@
+{"_id":"note:rX8vacExV","title":"前端面试3","content":"1. [（滴滴、饿了么）写 React / Vue 项目时为什么要在列表组件中写 key，其作用是什么？](https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/1)\n  - 不带key, 使用简单模板, 可以更有效的复用节点","tags":[],"folderPathname":"/font/面试","data":{},"createdAt":"2021-06-21T01:43:53.000Z","updatedAt":"2021-06-21T02:31:35.374Z","trashed":false,"_rev":"LXF9pnI7a"}
